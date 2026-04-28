@@ -1,6 +1,6 @@
 # Hi, I'm Ashutosh 👋
 
-🔭 Currently working as **Associate Consultant @ PwC India**  
+🔭 Currently working as **Associate Technology Consultant @ PwC India**  
 🌱 Learning **Java | Spring Boot | Microservices | REST APIs**  
 🔐 Security-aware developer — TryHackMe Top 1%  
 📝 I write on [Medium](https://medium.com/@BetterBy0x01) about Linux, Security & Backend Dev  
